@@ -5,10 +5,12 @@
 
 # 改正案 (あいうえお順)
 
-## 引用記事
-https://blogos.com/article/179470/?p=2
+## 伊勢崎賢治 憲法9条改正案
 
-## 同時に検討されるべき事項
+- 差分
+  - https://github.com/northface/constitution-of-japan/pull/1/files
+- データ
+  - https://blogos.com/article/179470/?p=2
 
 ### 日米地位協定の改定
  > 日本の施政下のすべての在日米軍拠点（基地および空域）における日本の主権を回復する。具体的には、
@@ -17,8 +19,25 @@ https://blogos.com/article/179470/?p=2
  > - 在日米軍基地が日本の施政下以外の他国、領域への武力行使に使われることの禁止。
 
 ### 参考
+- 護憲か、改憲か？ ４人の論客の「憲法９条案」を比較する
+　　https://blogos.com/article/179470/
+  
 - 日米地位協定関連
   - https://www.mofa.go.jp/mofaj/area/usa/sfa/kyoutei/index.html
+
+## 自由民主党: 日本国憲法改正草案-2012-04-27
+
+- 差分
+  - https://github.com/atsuya/constitution-of-japan/pull/1/files
+- データ
+  - https://jimin.ncss.nifty.com/pdf/news/policy/130250_1.pdf
+
+## 日本のこころ:（日本のこころ）日本国憲法草案-2017-04-27
+
+- 差分
+  - https://github.com/atsuya/constitution-of-japan/pull/6/files
+- データ
+  - http://nippon-kokoro.jp/news/policies/kenpo01.php
   
 # スタイルガイド
 
