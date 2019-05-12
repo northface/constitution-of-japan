@@ -49,7 +49,18 @@
   - https://github.com/atsuya/constitution-of-japan/pull/6/files
 - データ
   - http://nippon-kokoro.jp/news/policies/kenpo01.php
+   
+## 長谷川三千子 憲法9条改正案
+
+- 差分
+  - https://github.com/northface/constitution-of-japan/pull/3/files
+- データ
+  - https://blogos.com/article/179470/?p=4
   
+### 参考
+- 護憲か、改憲か？ ４人の論客の「憲法９条案」を比較する
+　　https://blogos.com/article/179470/
+
 # スタイルガイド
 
 - markdownで記述する
