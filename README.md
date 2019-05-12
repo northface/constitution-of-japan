@@ -5,19 +5,13 @@
 
 # 改正案 (あいうえお順)
 
-## 自由民主党: 日本国憲法改正草案-2012-04-27
+## 引用記事
+https://blogos.com/article/179470/?p=2
 
-- 差分
-  - https://github.com/atsuya/constitution-of-japan/pull/1/files
-- データ
-  - https://jimin.ncss.nifty.com/pdf/news/policy/130250_1.pdf
+## 同時に検討されるべき事項
 
-## 日本のこころ:（日本のこころ）日本国憲法草案-2017-04-27
-
-- 差分
-  - https://github.com/atsuya/constitution-of-japan/pull/6/files
-- データ
-  - http://nippon-kokoro.jp/news/policies/kenpo01.php
+- 日米地位協定関連
+  - https://www.mofa.go.jp/mofaj/area/usa/sfa/kyoutei/index.html
 
 
 # スタイルガイド
@@ -44,15 +38,3 @@
 ## 日本国憲法
 
 http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=321CONSTITUTION
-
-
-# 改正案 / 草案の権利
-
-TODO: 現在の日本国憲法、及び政党が公開する改正案/草案は、日本の税金によって作業が行われているであろうために、それを公に使用することに問題があるとは思わない (確認はしておきたいし、誰か知っている人がいたら教えて下さい)。しかし、民間の団体が公開している改正案 / 草案に関しては、その限りではない可能性がある。そういった場合には、それらをどの様に明記するか考えなければならない。
-
-
-# その他
-
-## PDFから日本語を摘出する
-
-[PDFMiner](https://github.com/euske/pdfminer)なり色々試したが、[textract](https://github.com/dbashford/textract)が一番正しく日本語が摘出できた
