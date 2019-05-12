@@ -28,7 +28,7 @@
 ## 井上達夫 憲法9条改正案
 
 - 差分
-  - 
+  - https://github.com/northface/constitution-of-japan/pull/2/files
 - データ
   - https://blogos.com/article/179470/?p=3
   
