@@ -5,6 +5,37 @@
 
 # 改正案 (あいうえお順)
 
+## 伊勢崎賢治 憲法9条改正案
+
+- 差分
+  - https://github.com/northface/constitution-of-japan/pull/1/files
+- データ
+  - https://blogos.com/article/179470/?p=2
+
+### 日米地位協定の改定
+ > 日本の施政下のすべての在日米軍拠点（基地および空域）における日本の主権を回復する。具体的には、
+ > - 地位協定の時限立法化（更新可）、もしくは、米軍の（段階的・完全）撤退時の状況をビジョン化（日本がすべての隣国との領土、領海問題の完全解決等）
+ > - 在日米軍基地に米軍が持ち込むすべての兵器、軍事物資に対する日本政府の許可と随時の検閲権。
+ > - 在日米軍基地が日本の施政下以外の他国、領域への武力行使に使われることの禁止。
+
+### 参考
+- 護憲か、改憲か？ ４人の論客の「憲法９条案」を比較する
+　　https://blogos.com/article/179470/
+  
+- 日米地位協定関連
+  - https://www.mofa.go.jp/mofaj/area/usa/sfa/kyoutei/index.html
+
+## 井上達夫 憲法9条改正案
+
+- 差分
+  - 
+- データ
+  - https://blogos.com/article/179470/?p=3
+  
+### 参考
+- 護憲か、改憲か？ ４人の論客の「憲法９条案」を比較する
+　　https://blogos.com/article/179470/
+
 ## 自由民主党: 日本国憲法改正草案-2012-04-27
 
 - 差分
@@ -18,8 +49,7 @@
   - https://github.com/atsuya/constitution-of-japan/pull/6/files
 - データ
   - http://nippon-kokoro.jp/news/policies/kenpo01.php
-
-
+  
 # スタイルガイド
 
 - markdownで記述する
@@ -44,15 +74,3 @@
 ## 日本国憲法
 
 http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=321CONSTITUTION
-
-
-# 改正案 / 草案の権利
-
-TODO: 現在の日本国憲法、及び政党が公開する改正案/草案は、日本の税金によって作業が行われているであろうために、それを公に使用することに問題があるとは思わない (確認はしておきたいし、誰か知っている人がいたら教えて下さい)。しかし、民間の団体が公開している改正案 / 草案に関しては、その限りではない可能性がある。そういった場合には、それらをどの様に明記するか考えなければならない。
-
-
-# その他
-
-## PDFから日本語を摘出する
-
-[PDFMiner](https://github.com/euske/pdfminer)なり色々試したが、[textract](https://github.com/dbashford/textract)が一番正しく日本語が摘出できた
